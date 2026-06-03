@@ -11,6 +11,19 @@ O grupo se compromete a estudar todos os autos estudos e, caso contrário, a doc
 O grupo optou por começar pela estrutura física do seguidor, focando principalmente na estrutura e, consequentemente, pela precisão e a leveza dos componenetes. Como terceira etapa, teste de funcionalidade focando na velocidade do robo.
 
 Seguem os componentes pesquisados e de possíveis implementações:
+
 ### Documentação semanal 
 
-### Progresso semanal de cada integrantes 
+#### Progresso semanal de cada integrantes 
+
+**João Pedro**
+
+**Kaylan**
+
+**Matheus**
+
+**Pablo**
+
+**Ricardo**
+
+**Vinicius**
