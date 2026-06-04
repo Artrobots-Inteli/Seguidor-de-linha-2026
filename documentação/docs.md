@@ -18,8 +18,8 @@ Seguem os componentes pesquisados e de possíveis implementações:
 
 **João Pedro**
 
- Motor    | RPM Sem Carga | Potência Nominal (V) | Peso (g) | Torque Nominal (mNm) | Preço (R$) |
-|-------|---------------------------|---------------------------------------------------------------------|-------------|
+| Motor | RPM Sem Carga | Potência Nominal (V) | Peso (g) | Torque Nominal (mNm) | Preço (R$) |
+|-------|---------------|----------------------|----------|----------------------|------------|
 | Micro Motor com Caixa de Redução (atual) | 750 | 6 | 20 | 166,71 | 68 |
 | Maxon DCX10L 4.5V (Raiju) | 12000 | 4.5 | 11 | 2,12 | 603,7 |
 | RIC-1020DT-037450 (sugestão) | 39500 | 7.4 | 9 | 1,55 | 45-75 |
