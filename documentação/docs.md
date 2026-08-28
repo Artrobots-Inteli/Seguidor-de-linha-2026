@@ -25,6 +25,21 @@ Seguem os componentes pesquisados e de possíveis implementações:
 | RIC-1020DT-037450 (sugestão) | 39500 | 7.4 | 9 | 1,55 | 45-75 |
 | 1020 coreless motor 7.4v neodymium (sugestão) | 22000 | 7.4 | 9 | 2 | 25-40 |
 
+| Peça | Largura (mm) | Comprimento (mm) | Altura (mm) | Material |
+|-------|---------------|----------------------|----------|----------------------|
+| Sensor em linha | 16.24 | 66.1 | 3,1 (sem pinos) | N/A |
+| Parte superior do chifre | 24.82 | 99.65 | 3.1 (chapa única)/ 9.03(chapa tripla) | MDF |
+| Parte superior do chifre (vazamento) | 15.02 | 30.85 | 3.1 | MDF |
+| Parte inferior do chifre (cabeça) | 26.90 | 69.80 | 2.51/7.69 | MDF |
+| Parte inferior do chifre (ligação) | 18.23/6.82 | 66.15/53.53 | 2.54 | MDF |
+| Placa do eixo | 128.58 | 101.75 | 1.44 | Não sei |
+| Placa extra | 101.44 | 151.06 | 1.61 | Não sei |
+| Case do motor | 37.42 | 29.90 | 12.05 | impressão 3D |
+| Roda | 16,00 | 22 (diâmetro externo)/ 3 (diâmetro externo) | N/A | Borracha/Metal |
+| Módulo Driver TB6612FNG | 18 | 20 | 2.16 | N/A |
+| Arduino Nano | 18 | 45 | 3.71 (com porta usb) | N/A |
+
+
 **Kaylan**
 
 **Matheus**
