@@ -38,6 +38,8 @@ Seguem os componentes pesquisados e de possíveis implementações:
 | Roda | 16,00 | 22 (diâmetro externo)/ 3 (diâmetro externo) | N/A | Borracha/Metal |
 | Módulo Driver TB6612FNG | 18 | 20 | 2.16 | N/A |
 | Arduino Nano | 18 | 45 | 3.71 (com porta usb) | N/A |
+| Motor | 13.12 | 40.32 | 10.17 | N/A |
+| Ponte H | 20.45 | 20.52 | N/A | N/A |
 
 
 **Kaylan**
