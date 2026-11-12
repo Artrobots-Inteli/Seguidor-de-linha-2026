@@ -1,0 +1,11 @@
+# Copie para .devrc e ajuste conforme necessário.
+# O dev.sh carrega este arquivo automaticamente se existir (tem prioridade).
+#
+# Dica: o último sketch escolhido com -s fica salvo em .devstate e vira o
+# padrão nas próximas vezes. Para trocar de novo: ./dev.sh -s NOME go
+
+SKETCH=.
+FQBN=esp32:esp32:esp32
+BAUD=115200
+TIMESTAMP=1
+# PORT=/dev/ttyUSB0
